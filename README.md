@@ -1,2 +1,3 @@
-# CSE462-HW2
-Sefa KOÇ CSE462 Homework2
+Sefa KOC - 1901042663
+
+CSE 462 Homework 2
